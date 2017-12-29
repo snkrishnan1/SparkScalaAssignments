@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="com.databricks:spark-xml_2.10:0.4.1" type="repository">
+    <properties maven-id="com.databricks:spark-xml_2.10:0.4.1" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/spark-xml_2.10-0.4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/scala-library-2.10.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

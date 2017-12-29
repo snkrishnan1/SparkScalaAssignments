@@ -1,0 +1,11 @@
+Spark 1.0 and Beyond (slides) by Patrick Wendell, at Cisco in San Jose, 2014-04-23
+Adding Native SQL Support to Spark with Catalyst (slides) by Michael Armbrust, at Tagged in SF, 2014-04-08
+SparkR and GraphX (slides: SparkR, GraphX) by Shivaram Venkataraman & Dan Crankshaw, at SkyDeck in Berkeley, 2014-03-25
+Simple deployment w/ SIMR & Advanced Shark Analytics w/ TGFs (slides) by Ali Ghodsi, at Huawei in Santa Clara, 2014-02-05
+Stores, Monoids & Dependency Injection - Abstractions for Spark (slides) by Ryan Weald, at Sharethrough in SF, 2014-01-17
+Distributed Machine Learning using MLbase (slides) by Evan Sparks & Ameet Talwalkar, at Twitter in SF, 2013-08-06
+GraphX Preview: Graph Analysis on Spark by Reynold Xin & Joseph Gonzalez, at Flurry in SF, 2013-07-02
+Deep Dive with Spark Streaming (slides) by Tathagata Das, at Plug and Play in Sunnyvale, 2013-06-17
+Tachyon and Shark update (slides: Shark, Tachyon) by Ali Ghodsi, Haoyuan Li, Reynold Xin, Google Ventures, 2013-05-09
+Spark 0.7: Overview, pySpark, & Streaming by Matei Zaharia, Josh Rosen, Tathagata Das, at Conviva on 2013-02-21
+Introduction to Spark Internals (slides) by Matei Zaharia, at Yahoo in Sunnyvale, 2012-12-18

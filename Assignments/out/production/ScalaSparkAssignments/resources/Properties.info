@@ -1,0 +1,33 @@
+//-----------------------------------------
+// SAMPLES
+//-----------------------------------------
+//JDBC connection
+//url = jdbc:mysql://172.22.1.113:3306/
+//url = jdbc:mysql://10.0.1.5:3306/
+//driver = com.mysql.jdbc.Driver
+//user = root
+//password =apexdm_root
+//hdfsParentPath = /user/mapradmin/jobOutput/cftest/
+
+
+//Server Logs
+Server_Log = C:\\Krishnan\\Working\\BigData\\Learnings\\Test\\Matt\\201-Assignments\\Assignments\\Data\\ServerLog.txt
+
+
+//INPUT FILE
+OneMillionFilePath = C:\\Krishnan\\Working\\BigData\\Learnings\\Test\\Matt\\Data\\OneMillion\\onemillion.txt
+
+//Celebrities_Profiles
+Celebrities_Profiles = C:\\Krishnan\\Working\\BigData\\Learnings\\Test\\Matt\\Data\\celebrities_profiles.csv
+
+//yahoo_stocks
+Yahoo_Stocks = C:\\Krishnan\\Working\\BigData\\Learnings\\Test\\Matt\\Data\\yahoo_stocks.csv
+
+//doctor registration
+Registration = C:\\Krishnan\\Working\\BigData\\Learnings\\Test\\Matt\\Data\\registration.csv
+
+DoctorService = C:\\Krishnan\\Working\\BigData\\Learnings\\Test\\Matt\\Data\\services.csv
+
+EbayAuction = C:\\Krishnan\\Working\\BigData\\Learnings\\Test\\Matt\\Data\\ebay.csv
+
+//C:\Krishnan\Working\BigData\Learnings\Test\Matt\Data
